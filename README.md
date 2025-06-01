@@ -1,0 +1,2 @@
+# Predicting-Student-Performance-Using-Machine-Learning
+Predicts student performance (Outcome = 0 or 1) using machine learning with features like study method, satisfaction, study time, ability, and prior performance; SVM &amp; Naive Bayes were trained, with SVM achieving higher accuracy (67%) and better generalization, though improvement is needed for this model as higher accuracy boosts model reliability
