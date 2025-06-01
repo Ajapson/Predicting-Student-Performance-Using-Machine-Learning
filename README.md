@@ -1,2 +1,36 @@
-# Predicting-Student-Performance-Using-Machine-Learning
-Predicts student performance (Outcome = 0 or 1) using machine learning with features like study method, satisfaction, study time, ability, and prior performance; SVM &amp; Naive Bayes were trained, with SVM achieving higher accuracy (67%) and better generalization, though improvement is needed for this model as higher accuracy boosts model reliability
+# 🎓 Predicting Student Performance with Machine Learning
+
+## 📌 Project Overview
+This project applies machine learning to predict student academic outcomes based on various learning-related features.
+
+## 🎯 Objective
+Classify students as likely to **perform well (Outcome = 1)** or **not perform well (Outcome = 0)**.
+
+## 📊 Dataset Features
+- Study method  
+- Satisfaction level  
+- Study time  
+- Ability  
+- Previous performance
+
+## 🤖 Models Used
+- **Support Vector Machine (SVM)**
+- **Naive Bayes (NB)**
+
+## 🧪 Model Evaluation
+### 🔹 Support Vector Machine (SVM)
+- Accuracy: **67%**
+- Shows better generalization and performance
+
+### 🔹 Naive Bayes (NB)
+- Accuracy: **58%**
+- Lower predictive power compared to SVM
+
+## 📈 Conclusion
+- **SVM outperformed Naive Bayes** on this dataset.
+- Can be used to identify students at risk of poor performance.
+- **Note:** Model improvement is Needed/possible like 95%-100%  — higher accuracy would lead to more reliable predictions.
+
+---
+
+✅ Built for educational insight and early intervention strategies.
