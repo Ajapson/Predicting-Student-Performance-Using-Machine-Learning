@@ -1,7 +1,7 @@
 # 🎓 Built a Model for Student Performance with Machine Learning
 
 ## 📌 Project Overview
-This project applies machine learning to build a model that understand and predict student academic outcomes based on various learning-related features for new and existing dataset.
+This project applies machine learning to build two model that understand and predict student academic outcomes based on various learning-related features for application on new and existing dataset, and choose which model is best suitable and reliable to use, though both model accuracy is below 90%, need room for improvement.
 
 ## 🎯 Objective
 Classify students as likely to **perform well (Outcome = 1)** or **not perform well (Outcome = 0)**.
